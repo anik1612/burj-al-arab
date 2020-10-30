@@ -1,7 +1,7 @@
 # Burj Al Arab Hotel Booking Website
 A single page hotel booking website where user can book hotel.
 
-[Live Website](https://burj-al-arab-62315.web.app/) | [Live API Server](https://volunteer-network-as.herokuapp.com/)
+[Live Website](https://burj-al-arab-62315.web.app/) | [Live API Server](https://evening-harbor-41895.herokuapp.com/)
 
 ### Features
 *	MERN-stack web app, you have hassle free google sign in method. 
